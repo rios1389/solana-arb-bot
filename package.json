@@ -7,11 +7,11 @@
     "start": "ts-node index.ts"
   },
   "dependencies": {
-    "@jup-ag/core": "^4.0.0",
-    "@solana/web3.js": "^1.80.0",
-    "axios": "^1.6.0",
-    "dotenv": "^16.0.3"
-  },
+  "@jup-ag/core": "^3.1.0",
+  "@solana/web3.js": "^1.80.0",
+  "axios": "^1.6.0",
+  "dotenv": "^16.0.3"
+}
   "devDependencies": {
     "ts-node": "^10.9.1",
     "typescript": "^5.3.2"
